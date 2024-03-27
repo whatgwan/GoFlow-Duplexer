@@ -1,9 +1,14 @@
 # GoFlow-Duplexer
 a Go powered netflow packet receiver and sender. Receive one netflow stream, and send it to as many destinations as required
+
+
 Prerequisites
 Before using the NetFlow Duplication Go Application, ensure that you have:
 
+
 A Go environment set up on your system so you can run/ or build a binary file.
+
+
 
 Starting the Application:
 Once compiled, you can start the application as you would any other script or compiled go-binary, just run:

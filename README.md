@@ -17,7 +17,7 @@ A Go environment set up on your system so you can run the code or build a binary
 
 
 
-Once compiled, you can start the application as you would any other script or compiled go-binary, just run:
+Once compiled, you can start the application as you would any other script or compiled Go binary, just run:
 
 
 

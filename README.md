@@ -32,7 +32,7 @@ Once compiled, you can start the application as you would any other script or co
 
 
 
-Example:
+**Example:**
 
 
 

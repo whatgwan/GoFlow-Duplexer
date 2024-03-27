@@ -2,7 +2,10 @@
 a Go powered netflow packet receiver and sender. Receive one netflow stream, and send it to as many destinations as required
 
 
-Prerequisites
+**Prerequisites**
+
+
+
 Before using the NetFlow Duplication Go Application, ensure that you have:
 
 

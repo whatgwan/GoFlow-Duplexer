@@ -21,7 +21,7 @@ Once compiled, you can start the application as you would any other script or co
 
 
 
-"/path/to/goflow-duplexer" with the required privilidges with the following args:
+"/path/to/goflow-duplexer" with the required privilidges with the following flags:
 
 
 -devices="device1_ip:port1,device2_ip:port2" (the devices and ports you wish to send netflow to) 

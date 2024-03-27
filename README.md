@@ -9,11 +9,11 @@ a Go powered netflow packet receiver and sender. Receive one netflow stream, and
 Before using the NetFlow Duplication Go Application, ensure that you have:
 
 
-A Go environment set up on your system so you can run/ or build a binary file.
+A Go environment set up on your system so you can run the code or build a binary file.
 
 
 
-Starting the Application:
+**Starting the Application:**
 
 
 
@@ -25,6 +25,9 @@ Once compiled, you can start the application as you would any other script or co
 
 
 -devices="device1_ip:port1,device2_ip:port2" (the devices and ports you wish to send netflow to) 
+
+
+
 -port=2055 (the port you are receiving netflow traffic on)
 
 
@@ -40,5 +43,5 @@ To start the application in the background
 
 
 
-This application is distributed under the MIT License.
+**This application is distributed under the MIT License.**
  
